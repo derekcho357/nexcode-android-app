@@ -1,2 +1,0 @@
-"The ubuntu-latest label will migrate to Ubuntu 26 beginning October 19, 2026. For more information, see
-https://github.com/actions/runner-images/issues/14748"
